@@ -27,7 +27,7 @@ const page = () => {
         <FramerWrapper y={0} x={100}>
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg ">
             I am a Full Stack Web Developer from Cheng Du, SiChuan,
-            China. I&apos;m passionate about crafting web projects and
+            China. I`&apos;`m passionate about crafting web projects and
             contributing to open-source communities. I specialize in modern
             JavaScript frameworks and responsive CSS design, focusing on
             creating pixel-perfect, user-friendly interfaces. With strong

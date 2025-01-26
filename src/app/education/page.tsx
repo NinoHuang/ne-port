@@ -31,10 +31,10 @@ const educationPage = () => {
             className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point "
           >
             <div className="text-2xl font-rubik max-sm:text-xl">
-              Bachelor of Software Engineering, <br /> Xi'an FanYi University
+              Bachelor of Software Engineering, <br /> Xi`&apos;`an FanYi University
             </div>
             <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
-              I graduated from Xi'an Fanyi University with a Bachelor's degree in Software Engineering. The program
+              I graduated from Xi`&apos;`an Fanyi University with a Bachelor`&apos;`s degree in Software Engineering. The program
               has provided me with a well-rounded education, covering both
               theoretical foundations and practical applications of computer
               science.
