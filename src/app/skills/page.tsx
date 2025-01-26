@@ -22,10 +22,10 @@ const skillPage = () => {
       name: "TypeScript",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
     },
-    {
-      name: "C++",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
-    },
+    // {
+    //   name: "C++",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+    // },
     {
       name: "Python",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
@@ -49,10 +49,10 @@ const skillPage = () => {
       name: "Vue.js",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
     },
-    {
-      name: "Svelte",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
-    },
+    // {
+    //   name: "Svelte",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
+    // },
     {
       name: "Tailwind CSS",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
@@ -92,10 +92,10 @@ const skillPage = () => {
       name: "MongoDB",
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
     },
-    {
-      name: "PostgreSQL",
-      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-    },
+    // {
+    //   name: "PostgreSQL",
+    //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+    // },
   ];
 
   return (

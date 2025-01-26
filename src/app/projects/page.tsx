@@ -40,7 +40,7 @@ to connect, collaborate, and code together. Join the conversation and level up y
     {
       title: "Rupeespot- All deals Product in one place",
       description:
-        "This is a free tool to check price history charts for millions of products for popular Indian stores such as Amazon and Flipkart. ",
+        "This is a free tool to check price history charts for millions of products for popular stores such as Amazon and Flipkart. ",
       tags: ["Nextjs", "Freelancing", "MySQL"],
       link: "https://rupeespot.com/",
     },
