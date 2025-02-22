@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "Taqui",
     "Imam",
     "Imam",
-    "Md Taqui Imam",
+    "Nino Huang",
     "md taqui imam",
     "mdtaqui",
     "mdtaquiimam",
